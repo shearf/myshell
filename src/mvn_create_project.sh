@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if [ $# -lt 3 ]
 then 
     echo invalid args
